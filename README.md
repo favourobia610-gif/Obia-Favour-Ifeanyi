@@ -1,8 +1,8 @@
 # COS 201 - Computer Programming I
 
-# AKUSOBI AKACHUKWU DANIEL
+# Obia Favour Ifeanyi
 
-# 25/18055
+# 25/16191
 
 # COMPUTER SCIENCE
 
